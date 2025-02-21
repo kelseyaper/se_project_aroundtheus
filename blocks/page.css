@@ -5,8 +5,7 @@
 }
 
 .page__content {
-  margin-left: 200px;
-  margin-right: 200px;
+  padding: 0 20px;
   display: flex;
   flex-direction: column;
   min-height: 100vh;

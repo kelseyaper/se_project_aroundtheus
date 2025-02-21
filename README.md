@@ -17,3 +17,5 @@ This project focused on working with elements to be displayed correctly on popul
 **Images**
 
 I exported images directly from Figma. Optimized for faster loading.
+
+Find link to my Github pages here: https://kelseyaper.github.io/se_project_aroundtheus/
