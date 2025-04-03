@@ -1,8 +1,18 @@
 .header {
   margin-top: 40px;
-  width: 880;
-  height: 74;
-  border-width: 1px;
-  border-bottom: 1px solid #545454;
+  width: 100%;
+  border-bottom: solid 1px rgb(84 84 84 / 0.7);
   padding-bottom: 40px;
+}
+
+.header__logo {
+  width: 173px;
+  height: 33px;
+}
+
+@media screen and (max-width: 320px) {
+  .header__logo {
+    width: 126px;
+    height: 24px;
+  }
 }
