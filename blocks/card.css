@@ -35,7 +35,6 @@
 }
 
 .card__like-button:hover {
-  background-image: url(../images/hover_like.svg);
   opacity: 0.5;
 }
 

@@ -5,10 +5,10 @@
   font-size: 18px;
   line-height: 21.78px;
   text-align: left;
-  padding-bottom: 60px;
+  padding-bottom: 67px 0 60px;
   max-width: 880px;
   width: 100%;
-  margin: 50px auto 0;
+  margin: 0 auto;
 
   color: #545454;
   /*width: 318px;
@@ -16,18 +16,15 @@
   left: 200px;
   top: 1139px; */
   gap: 0px;
-  opacity: 0px;
 }
 
-@media screen and (max-width: 768px) {
-  .footer {
-    max-width: 880px;
-    width: 100%;
-  }
+.footer__copyright {
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 320px) {
   .footer {
+    padding: 48px 0 36px;
     font-size: 14px;
   }
 }
