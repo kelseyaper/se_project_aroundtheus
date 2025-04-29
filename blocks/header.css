@@ -1,8 +1,8 @@
 .header {
-  margin-top: 28px;
+  margin-top: 45px;
   width: 100%;
   border-bottom: solid 1px rgb(84 84 84 / 0.7);
-  padding-bottom: 32px;
+  padding-bottom: 40px;
 }
 
 .header__logo {
@@ -14,5 +14,10 @@
   .header__logo {
     width: 126px;
     height: 24px;
+  }
+
+  .header {
+    margin-top: 28px;
+    padding-bottom: 32px;
   }
 }
